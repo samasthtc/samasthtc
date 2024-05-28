@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&customColorList=27&text=💫%20About%20Me&reversal=false&section=header&textBg=false)
 
-👋 Hey there, I'm Osama!<br>I'm all about coding 👨‍💻, design 🎨, and animation 🎞️.
-<br>You'll often find me tinkering with JavaScript expressions in After Effects, bringing code to motion.<br>I thrive at merging coding with creativity, which pushes me to bridge the gap between the two worlds.
+👋 Hey there, I'm Osama!
+<img src="images/logo.png" width="25"><br>
+I'm all about coding 👨‍💻, design 🎨, and animation 🎞️.<br>
+You'll often find me tinkering with JavaScript expressions in After Effects, bringing code to motion.<br>I thrive at merging coding with creativity, which pushes me to bridge the gap between the two worlds.
 
 ## 🌐 Socials:
 
@@ -42,4 +44,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samasthtc&theme=dracula&hide_border=true&mode=weekly&background=45%2C55acca%2Ce45d87&hide_longest_streak=true" alt="samasthtc's Streak">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="samasthtc's Top Languages">
+</div>
+
+#
+
+<div align="center">
+<img src="images/logo2.png" width="300">
 </div>
