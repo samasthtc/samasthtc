@@ -39,10 +39,7 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samasthtc&theme=dracula&background=45%2C78E8EB%2CEB81DB&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&ring_color=ff7777" alt="samasthtc's Stats">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samasthtc&theme=dracula&hide_border=true&mode=weekly&background=45%2C55acca%2Ce45d87&hide_longest_streak=true" alt="samasthtc's Streak">
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="samasthtc's Top Languages">
 </div>
 
