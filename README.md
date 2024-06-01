@@ -1,19 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&customColorList=27&text=💫%20About%20Me&reversal=false&section=header&textBg=false)
 
-👋 Hey there, I'm Osama!
-<img src="images/logo.png" width="25"><br>
+## 👋 Hey there, I'm Osama! <img src="images/logo.png" width="25"><br>
+
 I'm all about coding 👨‍💻, design 🎨, and animation 🎞️.<br>
 You'll often find me tinkering with JavaScript expressions in After Effects, bringing code to motion.<br>I thrive at merging coding with creativity, which pushes me to bridge the gap between the two worlds.
 
-## 🌐 Socials:
+</br>
+
 
 <div align="center">
   <a href="https://behance.net/samasthtc"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance"></a>
   <a href="https://linkedin.com/in/osama-shoora"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:samasthtc@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:osamashoora22@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"> 
@@ -35,15 +36,14 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> 
 </div>
-
-# 📊 GitHub Stats:
+</br>
 
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="samasthtc's Top Languages">
 </div>
 
-#
+<hr>
 
 <div align="center">
 <img src="images/logo2.png" width="300">
