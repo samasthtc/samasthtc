@@ -48,7 +48,7 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"> 
   
 </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="samasthtc's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&theme=dracula&show_icons=true&hide_border=true&layout=compact&exclude_repo=ENCS5141-Intelligent-Systems-Lab" alt="samasthtc's Top Languages">
 
 </div>
 
