@@ -17,6 +17,7 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
 
 <div align="center">
 
+<p align="center">
   <a href="https://skillicons.dev">
   <picture>
     <img src="https://skillicons.dev/icons?i=c,java,python,dart,flutter,androidstudio,firebase,md,js,css,html,sass,jquery,nodejs,express,spring,mysql,sqlite,github,git,notion,ae,ai,photoshop,premiere,xd,pytorch,opencv&perline=7" /></br>
@@ -25,6 +26,7 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sci-kit Learn"> 
   </picture>
   </a>
+</p>
 
 </br>
   <picture>
