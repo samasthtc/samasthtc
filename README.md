@@ -17,7 +17,7 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
 
 <div align="center">
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
   <picture>
     <img src="https://skillicons.dev/icons?i=c,java,python,dart,flutter,androidstudio,firebase,md,js,css,html,sass,jquery,nodejs,express,spring,mysql,sqlite,github,git,notion,ae,ai,photoshop,premiere,xd,pytorch,opencv&perline=7" /></br>
@@ -29,7 +29,7 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
 </p>
 
 </br>
-  <picture>
+<picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=10&text_color=ffffff&bg_color=00000000&exclude_repo=ENCS5141-Intelligent-Systems-Lab" media="(prefers-color-scheme: dark)" />
   
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dracula&bg_color=00000000&exclude_repo=ENCS5141-Intelligent-Systems-Lab" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
