@@ -15,7 +15,8 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
 
 ## 💻 Tech Stack:
 
-<p align="center">
+<div align="center">
+
   <a href="https://skillicons.dev">
   <picture>
     <img src="https://skillicons.dev/icons?i=c,java,python,dart,flutter,androidstudio,firebase,md,js,css,html,sass,jquery,nodejs,express,spring,mysql,sqlite,github,git,notion,ae,ai,photoshop,premiere,xd,pytorch,opencv&perline=7" /></br>
@@ -24,10 +25,8 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sci-kit Learn"> 
   </picture>
   </a>
-</p>
 
 </br>
-<div align="center">
   <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=10&text_color=ffffff&bg_color=00000000&exclude_repo=ENCS5141-Intelligent-Systems-Lab" media="(prefers-color-scheme: dark)" />
   
