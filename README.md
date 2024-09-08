@@ -17,12 +17,12 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <picture>
-    <img src="https://skillicons.dev/icons?i=c,java,python,dart,flutter,androidstudio,firebase,md,js,css,html,sass,jquery,nodejs,express,spring,mysql,sqlite,github,git,notion,ae,ai,photoshop,premiere,xd,pytorch,opencv&perline=7" /></br>
+    <img src="https://skillicons.dev/icons?i=c,java,python,dart,flutter,androidstudio,firebase,md,js,css,html,sass,jquery,nodejs,express,spring,mysql,sqlite,github,git,notion,ae,ai,photoshop,premiere,xd,pytorch,opencv&perline=7" />
+    </br>
+    </br>
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> 
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"> 
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sci-kit Learn"> 
-  </picture>
   </a>
 </p>
 
