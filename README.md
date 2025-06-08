@@ -26,7 +26,7 @@ You'll often find me tinkering with JavaScript expressions in After Effects, bri
 
 <div align="center">
   <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=10&text_color=ffffff&bg_color=00000000&exclude_repo=ENCS5141-Intelligent-Systems-Lab" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=ffffff&bg_color=00000000&exclude_repo=ENCS5141-Intelligent-Systems-Lab" media="(prefers-color-scheme: dark)" />
   
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samasthtc&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dracula&bg_color=00000000&exclude_repo=ENCS5141-Intelligent-Systems-Lab" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   
